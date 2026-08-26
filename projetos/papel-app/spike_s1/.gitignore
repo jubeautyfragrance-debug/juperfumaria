@@ -53,3 +53,8 @@ android/app/*.jks
 android/app/*.keystore
 ios/Runner/*.mobileprovision
 ios/Runner/*.p12
+
+# Artefatos de build que escaparam
+android/build/
+ios/Flutter/ephemeral/
+ios/Flutter/flutter_export_environment.sh
