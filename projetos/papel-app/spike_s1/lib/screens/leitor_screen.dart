@@ -707,8 +707,8 @@ class _LeitorScreenState extends State<LeitorScreen>
               ),
             ),
 
-          // ─── FPS (debug only) ───
-          if (_uiVisivel && kDebugMode)
+          // ─── FPS (debug e profile — profile tem performance de release) ───
+          if (_uiVisivel && (kDebugMode || kProfileMode))
             Positioned(
               top: MediaQuery.of(context).padding.top + PapelTokens.space64,
               left: PapelTokens.space12,
