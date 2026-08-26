@@ -1,0 +1,33 @@
+name: papel_spike
+description: "Papel — Leitor de PDF com filtros de tela e modos de leitura."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  pdfrx: ^2.4.7
+  file_picker: ^12.0.0
+  shared_preferences: ^2.3.0
+  path: ^1.9.0
+  uuid: ^4.5.0
+  share_plus: ^13.3.0
+  wakelock_plus: ^1.2.0
+  path_provider: ^2.1.4
+  hive_ce: ^2.6.0
+  hive_ce_flutter: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/teste.pdf

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#F5F0E8"
+        android:pathData="M54,54m-54,0a54,54 0,1 1,108 0a54,54 0,1 1,-108 0"/>
+    <!-- Book/PDF icon -->
+    <path
+        android:fillColor="#8B6914"
+        android:pathData="M36,30 L72,30 L72,78 L36,78 Z"
+        android:strokeWidth="2"
+        android:strokeColor="#6B4F12"/>
+    <path
+        android:fillColor="#6B4F12"
+        android:pathData="M54,30 L54,78"/>
+    <!-- Page lines left -->
+    <path
+        android:fillColor="#C4A265"
+        android:pathData="M40,40 L50,40"
+        android:strokeWidth="1.5"
+        android:strokeColor="#C4A265"/>
+    <path
+        android:fillColor="#C4A265"
+        android:pathData="M40,46 L50,46"
+        android:strokeWidth="1.5"
+        android:strokeColor="#C4A265"/>
+    <path
+        android:fillColor="#C4A265"
+        android:pathData="M40,52 L48,52"
+        android:strokeWidth="1.5"
+        android:strokeColor="#C4A265"/>
+    <!-- Page lines right -->
+    <path
+        android:fillColor="#C4A265"
+        android:pathData="M58,40 L68,40"
+        android:strokeWidth="1.5"
+        android:strokeColor="#C4A265"/>
+    <path
+        android:fillColor="#C4A265"
+        android:pathData="M58,46 L68,46"
+        android:strokeWidth="1.5"
+        android:strokeColor="#C4A265"/>
+    <path
+        android:fillColor="#C4A265"
+        android:pathData="M58,52 L66,52"
+        android:strokeWidth="1.5"
+        android:strokeColor="#C4A265"/>
+</vector>
