@@ -1,0 +1,29 @@
+# Local Netlify folder
+.netlify
+
+# Perfis de navegador (cookies/sessões — nunca versionar)
+chrome_fomo/
+fomo_profile/
+chrome-fomo/
+phantom/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Repositórios git embutidos (não devem virar submodule acidental)
+ferramentas/MoneyPrinterTurbo/
+projetos/applebite-website/
+projetos/marketing/
+
+# Artefatos de build
+*.apk
+*.aab
+*.so
+projetos/papel-app/dist/
+projetos/papel-app/spike_s1/build/
+projetos/papel-app/spike_s1/android/build/
+
+# Logs
+*.log

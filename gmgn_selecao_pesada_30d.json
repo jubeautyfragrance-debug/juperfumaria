@@ -1,0 +1,1116 @@
+[
+  {
+    "rank": 1,
+    "name": "Unipcs",
+    "address": "FJDy9FDRy6bwGEUKuAC98bUtN8MkpE2pT7Dj7HE3Z7Q1",
+    "fomo_trades": 5338,
+    "fomo_pnl30d": 9729583.544471944,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 42.92166666666667,
+    "tokens": 1,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 1,
+        "avg_holding_s": 154518,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 2,
+    "name": "DumbCrayonEater",
+    "address": "43nktK56Bfk3yJK9iqr3Kzyt9npgEB6sPYKAeoYMxeug",
+    "fomo_trades": 3570,
+    "fomo_pnl30d": 7826091.0773123475,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 3,
+    "name": "point farm capital",
+    "address": "6cerGpSGzCrA1NeHUNtyoNm4rWQx5SnK3DSAXb4e615t",
+    "fomo_trades": 3439,
+    "fomo_pnl30d": 6103803.519253899,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 4,
+    "name": "Salem",
+    "address": "CDY1JBoi2fKPPsHabyANmp6RP9Lkz8TcrkACsX3rHkka",
+    "fomo_trades": 2251,
+    "fomo_pnl30d": 5879479.106143131,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 5,
+    "name": "Nate",
+    "address": "GGHTozducaoSUh9TZLKJcZR4hAFETcsqJBokvW9mW5u9",
+    "fomo_trades": 3511,
+    "fomo_pnl30d": 4912868.811722122,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 6,
+    "name": "Burgz",
+    "address": "9qFZGRCDbPmKH2meHefPK4oUPsqRGzk9Y5tZib261CQW",
+    "fomo_trades": 3580,
+    "fomo_pnl30d": 4290286.561226857,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 7,
+    "name": "AJC",
+    "address": "5zVedvk9ffJKwaoueQWKEAAAa1nutXKhaqmFxzwmvVkW",
+    "fomo_trades": 2106,
+    "fomo_pnl30d": 3713158.5447265212,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 8,
+    "name": "TheS◎Lstice",
+    "address": "GmfY52CC5BKt43xt9GSmZWNzsAv4ywE6qgguRM5fvAtN",
+    "fomo_trades": 2555,
+    "fomo_pnl30d": 3690580.4097258323,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 43.03388888888889,
+    "tokens": 1,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 1,
+        "avg_holding_s": 154602,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 1,
+        "avg_holding_s": 154922,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 9,
+    "name": "Wood",
+    "address": "5fauxc5YgSLnSmSgjhsUq4iiYrnZc2iP7dajR6mSUwTM",
+    "fomo_trades": 2235,
+    "fomo_pnl30d": 3462627.19136371,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 490.8491666666667,
+    "tokens": 1,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 1,
+        "avg_holding_s": 1767057,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 1787822076
+      }
+    }
+  },
+  {
+    "rank": 10,
+    "name": "Swizzle",
+    "address": "5T7FrK5a19xxVQ3J4vQy1e8JPgzKzrfo6aVMN3gEvR7p",
+    "fomo_trades": 2181,
+    "fomo_pnl30d": 3228332.6057984713,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 11,
+    "name": "Vee",
+    "address": "EYveLtK4M3PsNnzH6zAGQgLnCGb2CqFqkKnEoNtRirDX",
+    "fomo_trades": 3236,
+    "fomo_pnl30d": 3205679.4620164707,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 43.07944444444445,
+    "tokens": 1,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 1,
+        "avg_holding_s": 154768,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 1789473806
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 1,
+        "avg_holding_s": 155086,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 1789473806
+      }
+    }
+  },
+  {
+    "rank": 12,
+    "name": "RugDalio✨",
+    "address": "CCJse5dhueP8GxJEfHQuGHue5bb9ECGY5FbJ9VgzxiRv",
+    "fomo_trades": 1328,
+    "fomo_pnl30d": 2705578.265750426,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 13,
+    "name": "Frogman",
+    "address": "6iTD9vugv5xhrYSPZF1cGTLbSx8XPV1WdnDXxMPG2boP",
+    "fomo_trades": 466,
+    "fomo_pnl30d": 2595601.9437705204,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 14,
+    "name": "ogle",
+    "address": "HvdahwUMiFStRDFkNi2VQVjkY6tvsi5FZ3bnBH5LSK7d",
+    "fomo_trades": 1382,
+    "fomo_pnl30d": 2439947.605913614,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 15,
+    "name": "LP 1",
+    "address": "EEoiJVRQvE3UQNGXT4CqngrTykuEmjh8PChv3mq7sm6b",
+    "fomo_trades": 284,
+    "fomo_pnl30d": 2438114.8499210165,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 16,
+    "name": "cosby",
+    "address": "Hr9UxGTUn3XfVasLKdbZdPtEvnPpDpCxtgQDbaAceP7R",
+    "fomo_trades": 1180,
+    "fomo_pnl30d": 2234945.8454250996,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 17,
+    "name": "inyourwalls",
+    "address": "CMQe5o5t7B5xk4ACimBxdFQycqLrdzPq6ueYTSNi52kj",
+    "fomo_trades": 2193,
+    "fomo_pnl30d": 2195782.5476824944,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 18,
+    "name": "Cardinal Saint",
+    "address": "GTMtyaEXGmwD9BE7qExTMb6UbncGWAKgT6qzyDDN9qBh",
+    "fomo_trades": 1424,
+    "fomo_pnl30d": 2186317.958142335,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 19,
+    "name": "230",
+    "address": "7FyMjkQbTxuFMHL7xTLRLfJM1i2HpvZxqrQFK7EHuj5W",
+    "fomo_trades": 238,
+    "fomo_pnl30d": 2070953.488700771,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 20,
+    "name": "aki",
+    "address": "BACkihsqHK398tkhaiGnQQDGCwXgBmV7zmxHPtkLSyvJ",
+    "fomo_trades": 1234,
+    "fomo_pnl30d": 2049223.678666885,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 21,
+    "name": "lordarbiter",
+    "address": "3uXZjuSPvdRQrsTPmQW5XzoZUh44e5Xo6QiLKk2TYKYg",
+    "fomo_trades": 1199,
+    "fomo_pnl30d": 2010098.89859639,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 22,
+    "name": "Ethermonk 📿",
+    "address": "Gt6MM3JA2HeJRU7x6tp5yUBVZrTFeMscs6S5gg8BpRqd",
+    "fomo_trades": 3186,
+    "fomo_pnl30d": 1984018.1602355794,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 43.05361111111111,
+    "tokens": 1,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 1,
+        "avg_holding_s": 154993,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 23,
+    "name": "soby",
+    "address": "FNUqoKLH2KTiYR29yAxmUDBSA7XbodFyo1UMhurqwd5s",
+    "fomo_trades": 1157,
+    "fomo_pnl30d": 1967411.9374799745,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 24,
+    "name": "Theo",
+    "address": "Gw4eZYJNpf7eqMk97tWx5XjnBQ9QzegLxwnsQPTfTAEU",
+    "fomo_trades": 2727,
+    "fomo_pnl30d": 1965484.592317802,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  },
+  {
+    "rank": 25,
+    "name": "kyle",
+    "address": "82j78BopqvD2P7soaQgzcRZYh1BWmAVZmXCevM5SWhYi",
+    "fomo_trades": 1679,
+    "fomo_pnl30d": 1898011.5612144573,
+    "status": "DESCARTADA",
+    "flags": [
+      "WR 0%<50%",
+      "PnL $0<$10k",
+      "0 trades<20",
+      "tiro-unico (insider?)"
+    ],
+    "notes": [],
+    "wr": 0.0,
+    "pnl": 0.0,
+    "trades": 0,
+    "hold_h": 0,
+    "tokens": 0,
+    "gmgn_detail": {
+      "7d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      },
+      "30d": {
+        "realized_profit": 0.0,
+        "unrealized_profit": 0.0,
+        "buys": 0,
+        "sells": 0,
+        "winrate": 0.0,
+        "token_num": 0,
+        "avg_holding_s": 0,
+        "gt5x": 0,
+        "risk": null,
+        "last_active": 0
+      }
+    }
+  }
+]

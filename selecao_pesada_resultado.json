@@ -1,0 +1,602 @@
+[
+  {
+    "rank": 1,
+    "name": "Unipcs",
+    "handle": "unipcs",
+    "address": "FJDy9FDRy6bwGEUKuAC98bUtN8MkpE2pT7Dj7HE3Z7Q1",
+    "pnl30d": 9729583.544471944,
+    "trades": 5338,
+    "hold_h": null,
+    "volume": 4218529.194275,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 118,
+      "tags": [],
+      "created_at": 0,
+      "remark": 134
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 2,
+    "name": "DumbCrayonEater",
+    "handle": "DumbCrayonEater",
+    "address": "43nktK56Bfk3yJK9iqr3Kzyt9npgEB6sPYKAeoYMxeug",
+    "pnl30d": 7826091.0773123475,
+    "trades": 3570,
+    "hold_h": null,
+    "volume": 1168000.821012,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 66,
+      "tags": [],
+      "created_at": 0,
+      "remark": 86
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 3,
+    "name": "point farm capital",
+    "handle": "pointfarmcap",
+    "address": "6cerGpSGzCrA1NeHUNtyoNm4rWQx5SnK3DSAXb4e615t",
+    "pnl30d": 6103803.519253899,
+    "trades": 3439,
+    "hold_h": null,
+    "volume": 14137912.311975,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 8,
+      "tags": [],
+      "created_at": 0,
+      "remark": 13
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 4,
+    "name": "Salem",
+    "handle": "Salem1299534",
+    "address": "CDY1JBoi2fKPPsHabyANmp6RP9Lkz8TcrkACsX3rHkka",
+    "pnl30d": 5879479.106143131,
+    "trades": 2251,
+    "hold_h": null,
+    "volume": 3828841.261322,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 59,
+      "tags": [],
+      "created_at": 0,
+      "remark": 59
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 5,
+    "name": "Nate",
+    "handle": "Natan_benish",
+    "address": "GGHTozducaoSUh9TZLKJcZR4hAFETcsqJBokvW9mW5u9",
+    "pnl30d": 4912868.811722122,
+    "trades": 3511,
+    "hold_h": null,
+    "volume": 12613.597174999999,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 43,
+      "tags": [],
+      "created_at": 0,
+      "remark": 50
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 6,
+    "name": "Burgz",
+    "handle": "brrrgrrrz",
+    "address": "9qFZGRCDbPmKH2meHefPK4oUPsqRGzk9Y5tZib261CQW",
+    "pnl30d": 4290286.561226857,
+    "trades": 3580,
+    "hold_h": null,
+    "volume": 4490022.90889,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 50,
+      "tags": [],
+      "created_at": 0,
+      "remark": 61
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 7,
+    "name": "AJC",
+    "handle": "AvgJoesCrypto",
+    "address": "5zVedvk9ffJKwaoueQWKEAAAa1nutXKhaqmFxzwmvVkW",
+    "pnl30d": 3713158.5447265212,
+    "trades": 2106,
+    "hold_h": null,
+    "volume": 2461670.537658,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 74,
+      "tags": [],
+      "created_at": 0,
+      "remark": 94
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 8,
+    "name": "TheS◎Lstice",
+    "handle": "The__Solstice",
+    "address": "GmfY52CC5BKt43xt9GSmZWNzsAv4ywE6qgguRM5fvAtN",
+    "pnl30d": 3690580.4097258323,
+    "trades": 2555,
+    "hold_h": null,
+    "volume": 2784053.535521,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 49,
+      "tags": [],
+      "created_at": 0,
+      "remark": 64
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 9,
+    "name": "Wood",
+    "handle": "notanicecat69",
+    "address": "5fauxc5YgSLnSmSgjhsUq4iiYrnZc2iP7dajR6mSUwTM",
+    "pnl30d": 3462627.19136371,
+    "trades": 2235,
+    "hold_h": null,
+    "volume": 7931591.032314,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 47,
+      "tags": [],
+      "created_at": 0,
+      "remark": 54
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 10,
+    "name": "Swizzle",
+    "handle": "SolSwizzle",
+    "address": "5T7FrK5a19xxVQ3J4vQy1e8JPgzKzrfo6aVMN3gEvR7p",
+    "pnl30d": 3228332.6057984713,
+    "trades": 2181,
+    "hold_h": null,
+    "volume": 10273478.631659,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 16,
+      "tags": [],
+      "created_at": 0,
+      "remark": 30
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 11,
+    "name": "Vee",
+    "handle": "theveeman",
+    "address": "EYveLtK4M3PsNnzH6zAGQgLnCGb2CqFqkKnEoNtRirDX",
+    "pnl30d": 3205679.4620164707,
+    "trades": 3236,
+    "hold_h": null,
+    "volume": 3702781.624663,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 71,
+      "tags": [],
+      "created_at": 0,
+      "remark": 90
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 12,
+    "name": "RugDalio✨",
+    "handle": "RugDalio",
+    "address": "CCJse5dhueP8GxJEfHQuGHue5bb9ECGY5FbJ9VgzxiRv",
+    "pnl30d": 2705578.265750426,
+    "trades": 1328,
+    "hold_h": null,
+    "volume": 1202493.028293,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 34,
+      "tags": [],
+      "created_at": 0,
+      "remark": 42
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 13,
+    "name": "Frogman",
+    "handle": "frogmanhaha",
+    "address": "6iTD9vugv5xhrYSPZF1cGTLbSx8XPV1WdnDXxMPG2boP",
+    "pnl30d": 2595601.9437705204,
+    "trades": 466,
+    "hold_h": null,
+    "volume": 44398.279951000004,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 54,
+      "tags": [],
+      "created_at": 0,
+      "remark": 58
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 14,
+    "name": "ogle",
+    "handle": "ogle",
+    "address": "HvdahwUMiFStRDFkNi2VQVjkY6tvsi5FZ3bnBH5LSK7d",
+    "pnl30d": 2439947.605913614,
+    "trades": 1382,
+    "hold_h": null,
+    "volume": 579192.380663,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 39,
+      "tags": [],
+      "created_at": 0,
+      "remark": 42
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 15,
+    "name": "LP 1",
+    "handle": "LP1111",
+    "address": "EEoiJVRQvE3UQNGXT4CqngrTykuEmjh8PChv3mq7sm6b",
+    "pnl30d": 2438114.8499210165,
+    "trades": 284,
+    "hold_h": null,
+    "volume": 957074.6175170001,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 41,
+      "tags": [],
+      "created_at": 0,
+      "remark": 48
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 16,
+    "name": "cosby",
+    "handle": "cosby",
+    "address": "Hr9UxGTUn3XfVasLKdbZdPtEvnPpDpCxtgQDbaAceP7R",
+    "pnl30d": 2234945.8454250996,
+    "trades": 1180,
+    "hold_h": null,
+    "volume": 2266032.200854,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 36,
+      "tags": [],
+      "created_at": 0,
+      "remark": 40
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 17,
+    "name": "inyourwalls",
+    "handle": "inyourwalls",
+    "address": "CMQe5o5t7B5xk4ACimBxdFQycqLrdzPq6ueYTSNi52kj",
+    "pnl30d": 2195782.5476824944,
+    "trades": 2193,
+    "hold_h": null,
+    "volume": 3547661.708642,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 28,
+      "tags": [],
+      "created_at": 0,
+      "remark": 40
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 18,
+    "name": "Cardinal Saint",
+    "handle": "CardinalSaint2",
+    "address": "GTMtyaEXGmwD9BE7qExTMb6UbncGWAKgT6qzyDDN9qBh",
+    "pnl30d": 2186317.958142335,
+    "trades": 1424,
+    "hold_h": null,
+    "volume": 2528031.087551,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 30,
+      "tags": [],
+      "created_at": 0,
+      "remark": 38
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 19,
+    "name": "230",
+    "handle": "Chubbi230",
+    "address": "7FyMjkQbTxuFMHL7xTLRLfJM1i2HpvZxqrQFK7EHuj5W",
+    "pnl30d": 2070953.488700771,
+    "trades": 238,
+    "hold_h": null,
+    "volume": 202128.887823,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 28,
+      "tags": [],
+      "created_at": 0,
+      "remark": 32
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 20,
+    "name": "aki",
+    "handle": "aki11a",
+    "address": "BACkihsqHK398tkhaiGnQQDGCwXgBmV7zmxHPtkLSyvJ",
+    "pnl30d": 2049223.678666885,
+    "trades": 1234,
+    "hold_h": null,
+    "volume": 1274434.311446,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 30,
+      "tags": [],
+      "created_at": 0,
+      "remark": 34
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 21,
+    "name": "lordarbiter",
+    "handle": "lordarbiter",
+    "address": "3uXZjuSPvdRQrsTPmQW5XzoZUh44e5Xo6QiLKk2TYKYg",
+    "pnl30d": 2010098.89859639,
+    "trades": 1199,
+    "hold_h": null,
+    "volume": 1127607.288492,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 31,
+      "tags": [],
+      "created_at": 0,
+      "remark": 39
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 22,
+    "name": "Ethermonk 📿",
+    "handle": "ether_monk",
+    "address": "Gt6MM3JA2HeJRU7x6tp5yUBVZrTFeMscs6S5gg8BpRqd",
+    "pnl30d": 1984018.1602355794,
+    "trades": 3186,
+    "hold_h": null,
+    "volume": 12537237.629426,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 63,
+      "tags": [],
+      "created_at": 0,
+      "remark": 74
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 23,
+    "name": "soby",
+    "handle": "soby0x",
+    "address": "FNUqoKLH2KTiYR29yAxmUDBSA7XbodFyo1UMhurqwd5s",
+    "pnl30d": 1967411.9374799745,
+    "trades": 1157,
+    "hold_h": null,
+    "volume": 1479989.175329,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 29,
+      "tags": [],
+      "created_at": 0,
+      "remark": 33
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 24,
+    "name": "Theo",
+    "handle": "0xdetweiler",
+    "address": "Gw4eZYJNpf7eqMk97tWx5XjnBQ9QzegLxwnsQPTfTAEU",
+    "pnl30d": 1965484.592317802,
+    "trades": 2727,
+    "hold_h": null,
+    "volume": 12120319.496259,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 32,
+      "tags": [],
+      "created_at": 0,
+      "remark": 35
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  },
+  {
+    "rank": 25,
+    "name": "kyle",
+    "handle": "kyle",
+    "address": "82j78BopqvD2P7soaQgzcRZYh1BWmAVZmXCevM5SWhYi",
+    "pnl30d": 1898011.5612144573,
+    "trades": 1679,
+    "hold_h": null,
+    "volume": 2028225.710568,
+    "gmgn": {
+      "created_tokens": 0,
+      "followers": 29,
+      "tags": [],
+      "created_at": 0,
+      "remark": 38
+    },
+    "status": "APROVADA",
+    "flags": [],
+    "na": [
+      "hold N/A",
+      "WR N/A (fomo oculta trades do GMGN)",
+      "diversificacao N/A"
+    ]
+  }
+]
