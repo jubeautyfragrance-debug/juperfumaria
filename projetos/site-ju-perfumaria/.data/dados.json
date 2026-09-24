@@ -1,0 +1,254 @@
+{
+  "malbec": {
+    "id": "malbec",
+    "price": 27990,
+    "notes": "Notas: Cardamomo, Pimenta do Reino, Bergamota · Sálvia, Elemi, Cipreste · Patchouli, Couro, Cedro, Infusão de Baunilha",
+    "family": "Amadeirado Oriental",
+    "url": "https://www.boticario.com.br/malbec-eau-de-parfum-90ml/"
+  },
+  "malbec-gold": {
+    "id": "malbec-gold",
+    "price": 23390,
+    "notes": "Notas: Mandarina, Maçã Gold, Artemísia, Gengibre de Madagascar, Pimenta Preta e Limão Siciliano · Noz Moscada, Flor-de-Laranjeira, Canela de Madagascar, Acorde Malbec, Liquid Gold, Lavanda, Complexo Couro Moderno · Patchouli Coeur, Cashmeran, Cistus Labdanum Absoluto, Cedro Texas, Baunilha, Madeiras Ambaradas, Agarwood, Olibano",
+    "family": null,
+    "url": "https://www.boticario.com.br/malbec-gold-desodorante-colonia-100ml-v3/"
+  },
+  "the-blend": {
+    "id": "the-blend",
+    "price": 33990,
+    "notes": "Notas: Bergamota, Rhum SFE, Açafrão , Lavanda, Grapefruit · Iris , Tuberosa , Notas resinosas, Sândalo, Vetiver ; Blend 4 Epice (Cravo , canela, pimenta, noz moscada) · Âmbar, Guaiacwood, Musgo, Oud laos , Benjoin, Fava Tonka",
+    "family": null,
+    "url": "https://www.boticario.com.br/the-blend-eau-de-parfum-100ml-v2/"
+  },
+  "the-blend-cardamom": {
+    "id": "the-blend-cardamom",
+    "price": 37990,
+    "notes": "Notas: Bergamota, Pimenta Sichuan, Gengibre, Noz-moscada, Elemi, Cominho · Lavanda, Acorde de Licoroso de Whisky, Folha de Violeta, Madeira de Cashmeran · Sândalo, Madeira de Cedro, Patchouli, Vetiver, Musk, Âmbar, Notas lactônicas",
+    "family": null,
+    "url": "https://www.boticario.com.br/the-blend-cardamom-eau-de-parfum-100ml/"
+  },
+  "egeo": {
+    "id": "egeo",
+    "price": 16490,
+    "notes": "Notas: Mirtilo Silvestre, Pimenta Rosa, Morango Tagada · Gergelim, Cedro, Cacau, Chocolate em pó, Chocolate Preto, Musgo, Cashmeran · Morango, Chocolate, Gergelim",
+    "family": null,
+    "url": "https://www.boticario.com.br/egeo-original-desodorante-colonia-90ml-v3/"
+  },
+  "floratta-gold": {
+    "id": "floratta-gold",
+    "price": 13490,
+    "notes": "Notas: Neroli, Abacaxi, Pêssego e Orquídea · Muguet, Heliotropina e Jasmim · Sândalo, Âmbar, Baunilha e Musk",
+    "family": null,
+    "url": "https://www.boticario.com.br/floratta-gold-desodorante-colonia-75ml-v2/"
+  },
+  "lily": {
+    "id": "lily",
+    "price": 22990,
+    "notes": "Notas: Mandarina, Pimenta Rosa, Bergamota; · Frésia, Tuberosa Guatemala, Jasmim Air; · Musgo Cristal, Cedro, Baunilha, Madeira Ambarada, White Musk",
+    "family": null,
+    "url": "https://www.boticario.com.br/leau-de-lily-blanche-desodorante-colonia-75ml/"
+  },
+  "glamour": {
+    "id": "glamour",
+    "price": 11990,
+    "notes": "Notas: Bergamota, Canela, Pimenta Preta · Lírio do Valle, Jasmim Sambac, Peônia, Flor de Laranjeira, Acorde Pink Leopard · Patchouli, Sândalo, Baunilha, Cedro",
+    "family": null,
+    "url": "https://www.boticario.com.br/glamour-fever-desodorante-colonia-75ml-v2/"
+  },
+  "coffee-man": {
+    "id": "coffee-man",
+    "price": 17990,
+    "notes": "Notas: Bergamota, Mandarina, Lavanda, Cipreste, Pimenta Rosa · Apricot, Iris negra , Magnolia, Ruibarbo, Cedro, Acorde Café au Cream · Sândalo, Patchouli, Cashmere , Musk , Musgo, Ambar, baunilha, Fava Tonka, Benjoim",
+    "family": null,
+    "url": "https://www.boticario.com.br/coffee-man-unique-fougere-oriental-desodorante-colonia-100ml/"
+  },
+  "una-tuberosa": {
+    "id": "una-tuberosa",
+    "price": 23992,
+    "notes": "Fragrância: Una Senses combina a potência da tuberosa com tons quentes da terracota. A fragrância ganha mais força com as notas sensuais e amadeiradas de cashmeran, benjoin e extrato de vanila. O toque final vem do cumaru, ingrediente da biodiversidade brasileira",
+    "family": null,
+    "url": "https://www.natura.com.br/p/una-senses-deo-parfum-75-ml/NATBRA-56161"
+  },
+  "malbec-magnetic": {
+    "id": "malbec-magnetic",
+    "price": 25990,
+    "notes": "Notas: Pimenta Rosa, Cardamomo da Índia, Cipreste da França, Maçã, Notas Cítricas, Uva Branca · Zimbro, Noz Moscada, Rosa, Notas verdes, Patchouli, Cedro, Cashmere, Sândalo, Guaiaco, Acorde Segredos da Alsácia · Cypriol, Musk, Baunilha, Âmbar, Olíbano",
+    "family": null,
+    "url": "https://www.boticario.com.br/malbec-magnetic-desodorante-colonia-100ml-v3/"
+  },
+  "egeo-dolce": {
+    "id": "egeo-dolce",
+    "price": 16490,
+    "notes": "Notas: Acorde de Sorvete de Framboesa, Nectarina · Acorde de Algodão Doce, Anis, Violeta, Madressilva · Âmbar, Baunilha, Fava Tonka, Sândalo, Musk",
+    "family": null,
+    "url": "https://www.boticario.com.br/egeo-dolce-desodorante-colonia-90ml-v2/"
+  },
+  "quasar-classic": {
+    "id": "quasar-classic",
+    "price": 14490,
+    "notes": "Notas: Bergamota, Mandarina, Limão · Estragão, Lavanda, Sálvia, Gálbano · Musgo de Carvalho, Musk, Sândalo, Cedro, Patchouli",
+    "family": null,
+    "url": "https://www.boticario.com.br/quasar-classic-desodorante-colonia-100ml/"
+  },
+  "floratta-my-blue": {
+    "id": "floratta-my-blue",
+    "price": 17490,
+    "notes": "Notas: Gerânio, Bergamota, Lima da Pérsia, Rosa Chá · Plumélia, Muguet e Gardênia · Sândalo, Cedro, Vetiver, Musk",
+    "family": "Floral Musk",
+    "url": "https://www.boticario.com.br/floratta-blue-desodorante-colonia-75ml-v2/"
+  },
+  "zaad": {
+    "id": "zaad",
+    "price": 34990,
+    "notes": "Notas: Bergamota da Itália, Coriandro da Rússia, Sementes de Zimbro, Notas Verdes · Cedro dos Estados Unidos, Cravo, Noz-moscada da Indonésia, Headspace Golden Chain Orchid das Filipinas, Patchouli da Indonésia · Âmbar, Musgo de Carvalho da Sérvia, Musk, Sândalo",
+    "family": null,
+    "url": "https://www.boticario.com.br/zaad-eau-de-parfum-95ml-v2/"
+  },
+  "kaiak-radical": {
+    "id": "kaiak-radical",
+    "price": 12990,
+    "notes": "Notas: Bergamota, Artemísia, Cassis · Pimenta Preta, Lírio do Vale · Almíscar, Âmbar, Sândalo",
+    "family": "Aromático",
+    "url": "https://www.natura.com.br/p/desodorante-colonia-kaiak-aventura-intensa-masculino-100-ml/NATBRA-171117"
+  },
+  "essencial": {
+    "id": "essencial",
+    "price": 27990,
+    "notes": "Notas: bergamota, lavanda, gálbano, zimbro, noz moscada, grapefrut, manjericão · gerânio, patchuli, alecrim, sálvia, jasmim · cedro, musc, musgo de carvalho, sândalo, âmbar, fir bálsamo, mirra",
+    "family": null,
+    "url": "https://www.natura.com.br/p/desodorante-perfume-essencial-masculino-100-ml/NATBRA-76420"
+  },
+  "essencial-sentir": {
+    "id": "essencial-sentir",
+    "price": 27990,
+    "notes": "Notas: Bergamota, Mandarina, Pimenta-preta, Cardamomo · Lavanda, Patchouli, Piper Brasileiro · Sândalo, Âmbar",
+    "family": "Amadeirado Aromático",
+    "url": "https://www.natura.com.br/p/deo-parfum-essencial-sentir-masculino-100-ml/NATBRA-167755"
+  },
+  "essencial-oud": {
+    "id": "essencial-oud",
+    "price": 19990,
+    "notes": "Notas: pimenta-preta, limão, açafrão, bergamota, priprioca, ishpink, piper · rosa, framboesa, mirtilo, maçã, sálvia-esclaréia, gerânio e coentro rosa, framboesa, mirtilo, maçã, sálvia-esclaréia, gerânio e coentro · oud, patchouli, almíscar, couro, breu-branco, sândalo, âmbar, bálsamo do peru, bálsamo de gurjan, vetiver e nagarmotha ou óleo de cipriol",
+    "family": null,
+    "url": "https://www.natura.com.br/p/deo-parfum-essencial-oud-masculino-100-ml/NATBRA-76424"
+  },
+  "essencial-unico": {
+    "id": "essencial-unico",
+    "price": 25832,
+    "notes": "Notas: pimenta rosa, ishipink, noz moscada, açafrão, pomelo · freesia, cedro, vetiver, copaiba · mirra, opoponax, benzoin, cumaru*, vanilla, musk, amber, labdanum",
+    "family": null,
+    "url": "https://www.natura.com.br/p/desodorante-perfume-essencial-unico-masculino-90-ml/NATBRA-103348",
+    "oldPrice": 32290
+  },
+  "kaiak-aventura": {
+    "id": "kaiak-aventura",
+    "price": 12490,
+    "notes": "Notas: mandarina, bergamota, artemisia · diidromircenol, muguet, pimenta preta · sândalo, musk, âmbar",
+    "family": null,
+    "url": "https://www.natura.com.br/p/desodorante-colonia-kaiak-aventura-masculino-100-ml/NATBRA-108402"
+  },
+  "kaiak-urbe": {
+    "id": "kaiak-urbe",
+    "price": 15190,
+    "notes": "Notas: menta, diidromircenol, notas verdes · gerânio, manjericão, lavanda · âmbar, sândalo, copaíba",
+    "family": null,
+    "url": "https://www.natura.com.br/p/desodorante-colonia-kaiak-urbe-masculino-100-ml/NATBRA-108401"
+  },
+  "natura-homem-essence": {
+    "id": "natura-homem-essence",
+    "price": 24490,
+    "notes": "Notas: bergamota, gengibre, grapefruit e limão · pimenta preta, violeta, cardamomo, canela e coriandro · patchouli, âmbar, iso e super, guaiacwood, cashmeran e cedro",
+    "family": null,
+    "url": "https://www.natura.com.br/p/desodorante-perfume-natura-homem-essence-100-ml/NATBRA-59847"
+  },
+  "natura-homem-sagaz": {
+    "id": "natura-homem-sagaz",
+    "price": 24490,
+    "notes": "Notas: mandarina verde, erva cidreira, cypress e sálvia · pimenta preta, noz moscada, ameixa preta · cedro, acorde amber, sândalo, baunilha e fava tonka",
+    "family": null,
+    "url": "https://www.natura.com.br/p/desodorante-perfume-natura-homem-sagaz-100-ml/NATBRA-81951"
+  },
+  "ekos-maracuja": {
+    "id": "ekos-maracuja",
+    "price": 12990,
+    "notes": "Notas: anis, maçã, bergamota, alecrim, mandarina e maracujá · muguet, rosa, jasmim e violeta · cedro, musk, musgo de carvalho e sândalo",
+    "family": null,
+    "url": "https://www.natura.com.br/p/ekos-frescor-maracuja-150-ml/NATBRA-73564"
+  },
+  "ekos-castanha": {
+    "id": "ekos-castanha",
+    "price": 3916,
+    "notes": "Notas: bergamota, laranja, limão, lavanda, mandarina, verdes naturais · jasmim, ylang ylang, muguet · musk, cedro, sândalo, musgo de carvalho, amêndoa",
+    "family": null,
+    "url": "https://www.natura.com.br/p/desodorante-colonia-frescor-ekos-castanha-75-ml/NATBRA-159924",
+    "oldPrice": 9790
+  },
+  "luna": {
+    "id": "luna",
+    "price": 18590,
+    "notes": "Notas: frutas vermelhas, maçã, pêssego, ameixa, pimenta-rosa, óleo de mandarina-italiana · jasmim-sambac, jasmim do Egito, óleo de néroli da Tunísia, rosa, óleo de rosa da Turquia · patchouli heart, musk, cedro, âmbar, veltol, baunilha",
+    "family": null,
+    "url": "https://www.natura.com.br/p/desodorante-colonia-luna-75-ml/NATBRA-44452"
+  },
+  "egeo-bomb-black": {
+    "id": "egeo-bomb-black",
+    "price": 16490,
+    "notes": "Notas: Artemísia, Hortelã, Limão, Verde Folha, Bergamota, Maçã · Muguet, Cedro, Couro, Imortelle, Musgo · Patchouli, Sândalo, Tiramisone, Baunilha, Musk, Caramelo, Âmbar, Sugar Booster",
+    "family": null,
+    "url": "https://www.boticario.com.br/egeo-bomb-black-desodorante-colonia-90ml-v2/"
+  },
+  "quasar-rush": {
+    "id": "quasar-rush",
+    "price": 18990,
+    "notes": "Notas: Limão Siciliano, Mandarina, Manjericão, Cardamomo, Abacaxi, Noz Moscada, Hortelã, Alecrim · Folha de Violeta, Cashmeran, Âmbar, Cedro Azul, Musgo, Acorde Aquático, Coriandro, Lavandin · Fava Tonka, Âmbar, Musk, Musgo, Notas Balsâmicas",
+    "family": null,
+    "url": "https://www.boticario.com.br/quasar-rush-desodorante-colonia-100ml-v3/"
+  },
+  "floratta-red": {
+    "id": "floratta-red",
+    "price": 17490,
+    "notes": "Notas: Bergamota, Pêra, Maçã, Frutas vermelhas · Flor de Laranjeira, Gardenia, Violeta · Âmbar, Musk, Sândalo, Cashmeran",
+    "family": null,
+    "url": "https://www.boticario.com.br/floratta-red-blossom-desodorante-colonia-75ml/"
+  },
+  "jadore": {
+    "id": "jadore",
+    "price": 87500
+  },
+  "sauvage": {
+    "id": "sauvage",
+    "price": 69900
+  },
+  "la-vie-est-belle": {
+    "id": "la-vie-est-belle",
+    "price": 80900
+  },
+  "good-girl": {
+    "id": "good-girl",
+    "price": 89990
+  },
+  "coco-mademoiselle": {
+    "id": "coco-mademoiselle",
+    "price": 141500
+  },
+  "libre": {
+    "id": "libre",
+    "price": 75500
+  },
+  "eros": {
+    "id": "eros",
+    "price": 79900
+  },
+  "acqua-di-gio": {
+    "id": "acqua-di-gio",
+    "price": 67900
+  },
+  "1-million": {
+    "id": "1-million",
+    "price": 47900
+  },
+  "scandal": {
+    "id": "scandal",
+    "price": 51900
+  }
+}
